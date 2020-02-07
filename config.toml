@@ -1,7 +1,7 @@
 baseURL = "https://NaofalMufid.github.io"
-title = "Kabut.en"
+title = "Naofal Mufid"
 languageCode = "en-us"
-copyright = "Copyright 2018 kabut.en"
+copyright = "Copyright 2018 valno.val"
 themesdir = "themes"
 theme = "hugo_eiio"
 Paginate=7
