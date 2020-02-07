@@ -2,3 +2,7 @@
 	path = public
 	url = git@github.com:NaofalMufid/NaofalMufid.github.io.git
 	branch = master
+[submodule "NaofalMufid.github.io"]
+	path = NaofalMufid.github.io
+	url = https://github.com/NaofalMufid/NaofalMufid.github.io.git
+	branch = master
